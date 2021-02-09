@@ -12,5 +12,5 @@ pool:
 - task: CmdLine@2
   inputs:
     script: |
-      javacn simple.java
-      javac simple
+      javac simple.java
+      java simple
